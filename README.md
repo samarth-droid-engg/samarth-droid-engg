@@ -12,9 +12,9 @@
 |---|---|
 | **Name** | Samarth Goel |
 | **College** | JSS Academy of Technical Education, Noida (AKTU) |
-| **Year** | 3rd Year — B.Tech Information Technology |
+| **Year** | 4th Year — B.Tech Information Technology |
 | **Currently** | DSA grind + MERN Stack learning |
-| **Goal** | Internship ready by 2025 |
+| **Goal** | Build softwares for solving real world problems |
 
 </div>
 
@@ -23,7 +23,7 @@
 ## 🔧 Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,py,ts,html,css,react,nextjs,nodejs,express" />
 </p>
 
 ## 🛢️ Databases & Tools
